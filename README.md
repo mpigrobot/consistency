@@ -2,10 +2,10 @@
 
 It is the code for our paper, if it is useful for you, please cite our paper.
 ```
-@article{Ëï×÷À×2015»ùÓÚÒ»ÖÂĞÔĞ£ÑéµÄ±´Ò¶Ë¹¹À¼ÆÆ÷ĞÔÄÜÆÀ¹À£¬
-  title =        {»ùÓÚÒ»ÖÂĞÔĞ£ÑéµÄ±´Ò¶Ë¹¹À¼ÆÆ÷ĞÔÄÜÆÀ¹À},
-  author =       {Ëï×÷À×; ÀîÓ°; ÕÅ²¨; ÕÅÎÄ},
-  journal =      {ÏµÍ³·ÂÕæÑ§±¨},
+@article{å­™ä½œé›·2015åŸºäºä¸€è‡´æ€§æ ¡éªŒçš„è´å¶æ–¯ä¼°è®¡å™¨æ€§èƒ½è¯„ä¼°ï¼Œ
+  title =        {åŸºäºä¸€è‡´æ€§æ ¡éªŒçš„è´å¶æ–¯ä¼°è®¡å™¨æ€§èƒ½è¯„ä¼°},
+  author =       {å­™ä½œé›·; æå½±; å¼ æ³¢; å¼ æ–‡},
+  journal =      {ç³»ç»Ÿä»¿çœŸå­¦æŠ¥},
   year =         {2015}
 }
 ```
@@ -23,4 +23,4 @@ Running "validataConsistency.m",you can get the verification result
 of nonlinear estimators' consistency.
 
 
-</br>**For more information, please contact [sunzuolei@gmail.com](http://dwz.cn/samuel)**
+</br>**For more information, please contact ly@mpig.com.cn, [szl@mpig.com.cn](http://mpig.com.cn)**
